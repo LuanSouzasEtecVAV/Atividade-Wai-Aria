@@ -1,3 +1,6 @@
+# Repositório:
+-https://github.com/LuanSouzasEtecVAV/Atividade-Wai-Aria
+
 # Questão 1
 ## 1. Explique com suas palavras o que é o WAI-ARIA e qual é sua principal finalidade no desenvolvimento de páginas web. Em sua resposta, comente quem são os principais usuários beneficiados por esse recurso.
  O WAI-ARIA (Web Accessibility Initiative – Accessible Rich Internet Applications) é basicamente um conjunto de atributos que a gente pode adicionar no HTML pra ajudar os navegadores e 
